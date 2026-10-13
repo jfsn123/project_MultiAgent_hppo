@@ -34,7 +34,6 @@ project_MultiAgent_hppo/
 │  └─ robot_pos.txt             # Supervisor 写入的随机初始位置
 ├─ worlds/
 │  └─ jiu_jia_zhua3.wbt         # Webots R2021a 仿真世界
-├─ libraries/                   # ROBOTIS OP2 与 Webots 管理器库
 ├─ hppo.pdf                     # HPPO 参考资料
 ├─ ppo.pdf                      # PPO 参考资料
 └─ readme.md
